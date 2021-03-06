@@ -1,9 +1,11 @@
 # main links
-main:
+# main:
   - title: "Home"
-    url: https://icp.me/
+    url: https://icp.me/minimal
+    
   - title: "About"
     url: /about/
+    
   - title: "Sample Posts"
     url: /year-archive/
     
