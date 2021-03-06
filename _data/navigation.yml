@@ -1,25 +1,10 @@
-# main links
-# main:
-  - title: Home
-    url: https://icp.me/minimal
-    
-  - title: About
-    url: /about/
-    
-  - title: Sample Posts
-    url: /year-archive/
-    
-  - title: Sample
-   url: /collection-archive/
-   
-  - title: Sitemap
-  url: /sitemap/
-  
-  - title: about
+# Site navigation links
+
+- title: about
   url: /about
 
-  - title: all posts
+- title: all posts
   url: /posts
 
-  - title: projects
-  url: /projects
+- title: projects
+  url: https://www.abhinav.co
