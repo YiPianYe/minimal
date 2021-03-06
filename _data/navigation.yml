@@ -1,18 +1,18 @@
 # main links
 # main:
-  - title: "Home"
+  - title: Home
     url: https://icp.me/minimal
     
-  - title: "About"
+  - title: About
     url: /about/
     
-  - title: "Sample Posts"
+  - title: Sample Posts
     url: /year-archive/
     
-  - title: "Sample Collections"
+  - title: Sample
    url: /collection-archive/
    
-  - title: "Sitemap"
+  - title: Sitemap
   url: /sitemap/
   
   - title: about
