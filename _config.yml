@@ -12,7 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default" 主题颜色
+# 主题颜色
+minimal_mistakes_skin    : "contrast"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default" 主题颜色
 
 # Site Settings
 locale                   : "zh-Hans"
