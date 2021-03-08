@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /link/
-title: link
-modified: 1-1-2015
+permalink: /links/
+title: links
 ---
 
 I've been doing some form of security since 1995; after digging up a bug in
@@ -12,8 +11,7 @@ Thrush, and the rest of the team set up the first Internet Service Provider
 in Orlando, right in the age of dial-up, and I got in on the ground floor
 as their first tech support guy.
 
-I can still remember the shock when reading Aleph One's [Smashing the Stack
-for Fun and Profit](http://phrack.org/issues/49/14.html) in Phrack -
+I can still remember the shock when reading Aleph One's  in Phrack -
 running the attached code and seeing a root prompt appear of out nowhere.
 It was incredibly powerful. That idea of finding the hidden quirks of how a
 system works - poking at it and observing its behavior - has stayed with
@@ -27,7 +25,6 @@ recruiters.
 
 ### About this template
 
-This site is built using Jekyll and [Minimal
-Mistakes](https://github.com/mmistakes/minimal-mistakes), a template from
+This site is built using Jekyll and  a template from
 Michael Rose.
 
