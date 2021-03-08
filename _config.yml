@@ -282,3 +282,10 @@ defaults:
       related: true
 
 theme: jekyll-theme-slate
+
+# compress_html
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+    
