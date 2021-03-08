@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 # 主题颜色
-minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default" 主题颜色
+minimal_mistakes_skin    : "air"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default" 主题颜色
 
 # Site Settings
 locale                   : "zh-Hans"
@@ -220,7 +220,7 @@ sass:
 
 # Outputting
 permalink: /:title.html
-paginate: 8 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
