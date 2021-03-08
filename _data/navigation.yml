@@ -1,7 +1,7 @@
 # example navigation
 foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
+  - title: "About"
+    url: /about.html
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/
@@ -23,11 +23,11 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /about.html
+  - title: "links"
+    url: /links.html
+  - title: "Archive"
+    url: /archive.html
   - title: "feed"
     url: /feed.xml
 
