@@ -1,7 +1,10 @@
 ---
-layout: page
-permalink: /links/
 title: links
+layout: collection
+permalink: /links/
+collection: links
+entries_layout: grid
+classes: wide
 ---
 
 I've been doing some form of security since 1995; after digging up a bug in
