@@ -68,7 +68,17 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
+        
+# Links to include in top navigation 测试
+# For external links add external: true
+links:
+  - title: Whoami
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Notes
+    url: /posts/
+    
 # Social Sharing
 twitter:
   username               :
