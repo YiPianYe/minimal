@@ -1,3 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "links"
+    url: /links
+  - title: "Archive"
+    url: /archive
+  - title: "feed"
+    url: /feed.xml
+
 # example navigation
 foo:
   - title: "About"
@@ -16,20 +29,6 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
-
-
-# main links
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about.html
-  - title: "links"
-    url: /links.html
-  - title: "Archive"
-    url: /archive.html
-  - title: "feed"
-    url: /feed.xml
 
 
 # documentation links
